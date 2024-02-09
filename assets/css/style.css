@@ -1,0 +1,22 @@
+.titulo {
+    color: #007bff;
+}
+.tabela-brasil{
+    padding: 20px!important;
+    background-color: azure;
+}
+.tabela-usuarios {
+    margin-top: 20px;
+}
+
+.tabela-usuarios th {
+    text-align: center;
+}
+
+.tabela-usuarios img {
+    max-width: 50px;
+}
+
+.esconde-thead {
+    display: none;
+}
